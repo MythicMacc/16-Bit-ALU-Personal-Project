@@ -1,7 +1,7 @@
 # 16-Bit-ALU-Personal-Project
 16-Bit Arithmetic Logic Unit (ALU) built from the ground up, first designed and verified at the schematic level in CircuitVerse, then implemented in Verilog and simulated in Quartus/ModelSim. 
 
-I am very much still learning digital logic and Verilog so this is my first solo project. I did a lot of gate level modeling with the coding for that reason. 
+I am very much still learning digital logic and Verilog so this is my first solo project. I did a lot of gate level modeling with the coding for that reason. All of this code was done by me, outside of the testbench.
 
 Features
   - 16-bit carry-lookahead adder/subtractor (4x chained 4-bit CLA blocks)
