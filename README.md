@@ -10,7 +10,7 @@ Features
   - Increment A, Decrement A, Pass A, and Pass B
   - Set Less Than (returns 1 if A is less than B)
   - Status flags: Zero,Carry(Cout),Overflow,Sign-bit (all 1-bit)
-  - 4-bit opcode select (16 operations total)
+  - 4-bit opcode select (16 operations total) 
 
 <img width="571" height="496" alt="{E41AEB23-23EE-4469-8FDC-F58A6AF109DB}" src="https://github.com/user-attachments/assets/926799ef-a344-4ade-8b0b-9106103b90ac" />
 
